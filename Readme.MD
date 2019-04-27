@@ -1,4 +1,4 @@
-#AWS Hands-On Experiments
+# AWS Hands-On Experiments
 This repository contains a list of possible experiments one can perform in order to gain hands on experience with AWS.
 
 This repository is certainly useful for those planning a AWS Certification.
