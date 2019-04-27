@@ -1,3 +1,5 @@
+![aws-logo](https://user-images.githubusercontent.com/23517359/56847714-55150900-68fc-11e9-9f7a-a9329281d8c1.png)
+
 # AWS Hands-On Experiments
 This repository contains a list of possible experiments one can perform in order to gain hands on experience with AWS.
 
