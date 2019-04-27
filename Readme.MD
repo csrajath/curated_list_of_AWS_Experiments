@@ -21,6 +21,6 @@ AWs has a youtube playlist named [AWS Knowledge Center Videos](https://www.youtu
 
 # License
 
-This example code is distributed under the Apache License, Version 2.0, see LICENSE for more information.
+This example code is distributed under the Apache License, Version 2.0, see [LICENSE](https://github.com/jarviscrypter/curated_list_of_AWS_Experiments/blob/master/LICENSE) for more information.
 
 Have fun!!!
